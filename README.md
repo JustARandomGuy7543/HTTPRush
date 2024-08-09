@@ -14,3 +14,7 @@ HTTPRush is a tool made by me that allows the user to flood HTTP(s) requests to 
 - User can customize the number of requests
 
 **------------------------------------------------------------------**
+
+
+Note for github: I am not encouraging people to perform such acts, as the tool should only be used for testing.
+Saying that bc i got banned a months ago.
