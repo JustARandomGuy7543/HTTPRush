@@ -7,6 +7,7 @@ HTTPRush is a tool made by me that allows the user to flood HTTP(s) requests to 
 **---------------------------------------------------------**
 **BETA**
 **---------------------------------------------------------**
+
 **VERSION:** 0.8
 - Features:
 - HTTP Flood
