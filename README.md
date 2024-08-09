@@ -15,7 +15,7 @@ HTTPRush is a tool made by me that allows the user to flood HTTP(s) requests to 
 
 **------------------------------------------------------------------**
 
-![Alt text]([URL-to-your-image](https://github.com/JustARandomGuy7543/HTTPRush/blob/main/HTTPRush%20Print%20Screen))
+![Alt text](https://github.com/JustARandomGuy7543/HTTPRush/blob/main/Captura%20de%20ecr%C3%A3%202024-08-09%20222502.png)
 
 
 
