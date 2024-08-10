@@ -10,6 +10,7 @@ def print_banner():
     print(Fore.BLUE + http_rush)
     print(Fore.RED + "Plz, only use this for legal actions.")
     print(Fore.RED + "Tool made by: Just A Random")
+    print(Fore.GREEN + "Warning! This tool is a BASIC script, dont execpt to work of the way you want.
 
 def get_user_input():
     print(Fore.GREEN + "\n[+] Welcome to HTTPRush! [+]\n")
