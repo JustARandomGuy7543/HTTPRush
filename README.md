@@ -14,6 +14,8 @@ Changes:
 - Now, the script doesn't use tkinter anymore
 - Bug fixes
 
+  Update log: 10/08/2024
+
 **------------------------------------------------------------------**
 
 ![Alt text](https://github.com/JustARandomGuy7543/HTTPRush/blob/main/Captura%20de%20ecr%C3%A3%202024-08-10%20182502.png)
