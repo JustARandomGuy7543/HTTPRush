@@ -8,16 +8,15 @@ HTTPRush is a tool made by me that allows the user to flood HTTP(s) requests to 
 **BETA** 
 **---------------------------------------------------------**
 
-**VERSION:** 0.8
-- Features:
-- HTTP Flood
-- User can customize the number of requests
-
-## The code is not working right now, i'll fix this soon.
+**VERSION:** 0.9 (NEW!)
+Changes:
+- You can now specify wich port you want to use (80 is default)
+- Now, the script doesn't use tkinter anymore
+- Bug fixes
 
 **------------------------------------------------------------------**
 
-![Alt text](https://github.com/JustARandomGuy7543/HTTPRush/blob/main/Captura%20de%20ecr%C3%A3%202024-08-09%20222502.png)
+![Alt text](https://github.com/JustARandomGuy7543/HTTPRush/blob/main/Captura%20de%20ecr%C3%A3%202024-08-10%20182502.png)
 
 
 
